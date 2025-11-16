@@ -64,7 +64,7 @@
 
 ## 📂 Структура репозитория
 
-
+`
 ├── data/
 │   ├── train.csv
 │   └── test.csv
@@ -76,3 +76,4 @@
 ├── churn_prediction_full_pipeline.ipynb
 │
 └──  README.md       
+`
